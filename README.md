@@ -1,3 +1,7 @@
+
+![Screenshot 2023-08-07 230901](https://github.com/AryanYadav1912/IMDb_Neo/assets/102041624/28fe8877-60f8-4ef8-81a5-b25f50c528c0)
+Your IMDb Clone with React JS 🎥 Explore the world of movies and TV shows with MovieHub, a user-friendly IMDb_Neo and IMDb clone built using React JS. Discover movie details, cast, ratings, and trailers seamlessly. Create personalized watchlists, share reviews, and enjoy a sleek and responsive design. Embark on a cinematic journey today!"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
